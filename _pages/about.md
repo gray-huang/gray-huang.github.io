@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="bio-container">
-    <div class="bio-text" markdown="1">
+    <div class="bio-text">
         # GRAY HUANG
         Gray Lianghui Huang (Cantonese: Gray Wong Leung-fai) is a transdisciplinary artist-scholar and singer-songwriter based in upstate New York. He is currently a PhD candidate in Comparative Literature at SUNY Binghamton. His research explores media aesthetics, film phenomenology, queer sound and listening, as well as queerness in global screen media.
 
