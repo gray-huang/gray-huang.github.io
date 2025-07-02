@@ -9,7 +9,7 @@
   margin-bottom: 0 !important; /* Add this if there's space below */
   padding-left: 1em;
   padding-right: 1em;
-  padding-top: 0 !important; /* Add this */
+  padding-top: 3em; /* Add this */
   padding-bottom: 0 !important; /* Add this */
   animation: intro 0.3s both;
   animation-delay: 0.35s;
@@ -69,8 +69,8 @@
 
   /* paragraph indents */
   p {
-    margin-top: 0 !important; /* Ensure no top margin */
-    margin-bottom: 0 !important; /* Ensure no bottom margin */
+    margin-top: 0; 
+    margin-bottom: 1em;
   }
 
   a {
