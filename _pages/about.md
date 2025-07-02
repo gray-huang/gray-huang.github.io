@@ -31,7 +31,7 @@ redirect_from:
 
         🎤(WINNER) His live jazz cover One For My Baby won the singing competition Apollo Night: Jazz Rhythm and Soul at Binghamton University.
 
-        CLICK> ONE FOR MY BABY (& ONE MORE FOR THE ROAD) (COVER)
+        CLICK> ONE FOR MY BABY (& ONE MORE FOR THE ROAD) (COVER) ss
     </div>
 
     <div class="bio-images">
