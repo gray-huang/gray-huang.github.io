@@ -415,6 +415,16 @@
   flex: 2; /* Text takes up more space (e.g., 2/3 of available width) */
   min-width: 400px; /* Ensures text doesn't get too narrow before wrapping */
   padding-bottom: 2em; /* Add some space below the text if images extend further */
+
+  a { /* <--- Add/Modify this block */
+    color: #000000 !important; /* Set text color to black */
+    text-decoration: underline !important; /* Keep the underline */
+
+    &:hover {
+      color: #555555 !important; /* Optional: A slightly lighter black/dark gray on hover */
+      text-decoration: underline !important; /* Keep underline on hover */
+    }
+  }
 }
 
 .bio-images {
