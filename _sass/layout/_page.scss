@@ -428,11 +428,11 @@
 }
 
 .bio-images {
-  flex: 1; /* Images take up less space (e.g., 1/3 of available width) */
+  flex: 1.5; /* Images take up less space (e.g., 1/3 of available width) */
   display: flex;
   flex-direction: column; /* Stacks images vertically within their column */
   gap: 15px; /* Space between individual images */
-  min-width: 250px; /* Ensures images don't get too narrow */
+  min-width: 350px; /* Ensures images don't get too narrow */
   align-self: flex-start; /* Ensures images start at the top of their column */
 }
 
