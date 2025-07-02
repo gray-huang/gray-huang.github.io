@@ -402,85 +402,53 @@
 }
 
 .bio-container {
+  display: flex;         /* Enables Flexbox for side-by-side layout */
+  flex-wrap: wrap;       /* Allows columns to stack on smaller screens */
+  gap: 20px;             /* Space between the text and image columns */
+  align-items: flex-start; /* Aligns content to the top of the container */
+  max-width: 1200px;     /* Optional: Limit the overall width of the content+images */
+  margin: 3em auto 0 auto; /* Center the container and add top/bottom margin */
+  padding: 0 1em; /* Add some horizontal padding inside the container */
+}
+
+.bio-text {
+  flex: 2; /* Text takes up more space (e.g., 2/3 of available width) */
+  min-width: 400px; /* Ensures text doesn't get too narrow before wrapping */
+  padding-bottom: 2em; /* Add some space below the text if images extend further */
+}
+
+.bio-images {
+  flex: 1; /* Images take up less space (e.g., 1/3 of available width) */
   display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  align-items: flex-start;
-  max-width: 1200px;
-  margin: 3em auto 0;
-  padding: 0 1em;
+  flex-direction: column; /* Stacks images vertically within their column */
+  gap: 15px; /* Space between individual images */
+  min-width: 250px; /* Ensures images don't get too narrow */
+  align-self: flex-start; /* Ensures images start at the top of their column */
+}
 
-  .bio-text {
-    flex: 2;
-    min-width: 400px;
-    padding-bottom: 2em;
+.bio-images img {
+  max-width: 100%; /* Makes images responsive within their container */
+  height: auto;    /* Maintains aspect ratio */
+  display: block;  /* Removes extra space below images */
+  border-radius: 8px; /* Optional: adds rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+}
 
-    h1, h2, h3 {
-      margin: 1em 0 0.5em;
-      line-height: 1.3;
-    }
-    
-    h1 {
-      font-size: $type-size-2;
-      border-bottom: none;
-      margin-top: 0;
-    }
-    
-    h2 {
-      font-size: $type-size-3;
-      border-bottom: none;
-    }
-    
-    h3 {
-      font-size: $type-size-4;
-    }
-    
-    p {
-      margin-bottom: 1em;
-    }
-    
-    ul {
-      padding-left: 1.5em;
-      margin-bottom: 1.5em;
-      
-      li {
-        margin-bottom: 0.5em;
-      }
-    }
+/* Media query for smaller screens (e.g., mobile) - stack elements vertically */
+@media (max-width: 768px) {
+  .bio-container {
+      flex-direction: column; /* Stacks text and images vertically */
+      margin-top: 1.5em; /* Less top margin on mobile */
+      padding: 0 0.5em;
   }
-
+  .bio-text,
   .bio-images {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    min-width: 250px;
-    align-self: flex-start;
-
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-  }
-
-  @include breakpoint($small) {
-    flex-direction: column;
-    margin-top: 1.5em;
-    padding: 0 0.5em;
-
-    .bio-text,
-    .bio-images {
-      flex: none;
-      width: 100%;
-      min-width: unset;
+      flex: none;      /* Removes flex sizing when stacked */
+      width: 100%;     /* Makes both take full width */
+      min-width: unset;/* Remove minimum width constraint */
       padding-bottom: 1em;
-    }
-
-    .bio-images {
-      margin-top: 1em;
-    }
+  }
+  .bio-images {
+      margin-top: 1em; /* Add some space between text and images when stacked */
   }
 }
