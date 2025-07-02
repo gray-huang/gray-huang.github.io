@@ -69,7 +69,8 @@
 
   /* paragraph indents */
   p {
-    margin: 0 !important; /* Override all paragraph margins */
+    margin-top: 0 !important; /* Ensure no top margin */
+    margin-bottom: 0 !important; /* Ensure no bottom margin */
   }
 
   a {
