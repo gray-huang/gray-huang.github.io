@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gray Huang"
+title: ""
 author_profile: false
 redirect_from: 
   - /about/
