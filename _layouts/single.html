@@ -10,14 +10,12 @@ layout: none  {# Changed from 'default' #}
     <title>{{ page.title | default: site.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}">{% endif %}
 
-    {# Ensure this path is correct for your theme's main CSS #}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <noscript><link rel="stylesheet" href="{{ '/assets/css/noscript.css' | relative_url }}"></noscript>
   </head>
   <body>
 
     <div id="main" role="main">
-      {# Removed: includes like page__hero, breadcrumbs, sidebar #}
 
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -26,18 +24,14 @@ layout: none  {# Changed from 'default' #}
         {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
         <div class="page__inner-wrap">
-          {# Removed: <header> block for page title, date, etc. #}
 
           <section class="page__content" itemprop="text">
             {{ content }} {# Your Markdown content goes here #}
 
-            {# Removed: Citation/Download links, Direct Link button #}
           </section>
 
-          {# Removed: page__meta footer, social-share, post_pagination #}
         </div>
 
-        {# Removed: comments, page__related #}
       </article>
     </div>
 
