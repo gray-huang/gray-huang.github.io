@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 TEACHING EXPERIENCE
 ----------
-**Instructor of Record | Comparative Literature, Binghamton University**
+**Instructor of Record \| Comparative Literature, Binghamton University**
 
 **<i>(Design and teach, as instructor of record, an intermediate-level course of max. 25 students that fulfills the Humanities and Composition university general education requirements.)</i>**
 
@@ -33,7 +33,7 @@ Fall 2023: COLI 212 “World Literature, Cinema, and Society”
 Fall 2022: COLI 110 “Demon, Belief, and Love: World Literature and Cinema”
 
 
-**Graduate Teaching Assistant | Comparative Literature/English/Cinema, Binghamton University**
+**Graduate Teaching Assistant \| Comparative Literature/English/Cinema, Binghamton University**
 
 **<i>(TA, Grader, and Discussion Leader for an intermediary-level course of max. 40 students that fulfills the Writing and Pluralism in the United States university general education requirements.)</i>**
 
