@@ -65,3 +65,12 @@
     font-weight: 700;
   }
 }
+
+body.home-page-yellow .masthead {
+  background-color: #FFEE59; /* Your yellow color */
+}
+
+/* Optional: If you want the bottom border of the header to also be yellow on the homepage */
+body.home-page-yellow .masthead::after {
+  background: #FFEE59; /* Matching yellow for the border */
+}
