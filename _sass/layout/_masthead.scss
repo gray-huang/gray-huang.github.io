@@ -75,14 +75,6 @@ body.home-page-yellow .masthead::after {
   background: #FFEE59 !important; /* Matching yellow for the border */
 }
 
-body.home-page-yellow .masthead a {
-  color: #000000 !important;
-}
-
-body.home-page-yellow .masthead a:hover {
-  color: #555555 !important;
-}
-
 /* ADD THIS NEW RULE to make the inner wrapper yellow too */
 body.home-page-yellow .masthead__inner-wrap {
     background-color: #FFEE59 !important; /* Ensure the inner content area of the header is also yellow */
