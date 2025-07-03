@@ -10,6 +10,12 @@ layout: none
     <title>{{ page.title | default: site.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}">{% endif %}
 
+    <link rel="icon" type="image/png" href="{{ '/images/favicon-96x96.png' | relative_url }}" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}" />
+    <link rel="shortcut icon" href="{{ '/images/favicon.ico' | relative_url }}" />
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}" />
+    <link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
