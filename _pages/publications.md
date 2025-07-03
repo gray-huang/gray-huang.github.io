@@ -8,23 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-INFO 2951: Introduction to Data Science with R (Spring 2025)
+REFEREED PUBLICATIONS (PEER-REVIEWED)
 ----------
-**Teaching Assistant at Cornell University, Instructor: Prof. Benjamin Soltoff**
+2025: “Breath, Tremble, Touch: Queer Listening, Queer Vocals, and Queer Phenomenology” <i>Sensory Dramaturgy: Aesthetics for Nervous Systems</i>. Eds. Sean Metzger, Elizabeth McQueen, and Devon Baur. Bloomsbury Publishing. work-in-progress.
 
-This course is for undergraduate students at Cornell and focuses on using data to identify patterns, evaluate the strength and significance of relationships, and generate predictions using data. My responsibilities as a TA were to hold office hours and lead discussion sessions with students to help them address the problems they encountered during the class and assignments.
+2025: “‘Ay, ay, ay, ay, ay cantaba’: Queer Undercurrents and Embodied Sound in Wong Kar-wai’s <i>Happy Together</i> and Barry Jenkins’s <i>Moonlight” The Music Novel as World Literature</i>. Eds. Barry Faulk and Chris Okonkwo. Bloomsbury Publishing. work-in-progress.
 
-INFO 4320/5321: Introduction to Rapid Prototyping and Physical Computing (Fall 2022, Spring 2023, Fall 2023)
-----------
-**Teaching Assistant at Cornell University, Instructor: Prof. Cheng Zhang**
-
-This course is for both undergraduate and graduate students at Cornell with different backgrounds. My responsibilities as a TA were to hold office hours and project meetings with students to help them address the problems they encountered during individual assignments and group projects. The problems were usually related to a wide range of topics in rapid prototyping and physical computing including 3D printing, laser cutting, microcontrollers, sensors, and motors. Besides, I also provided grades and feedback on the students’ assignments and project reports together with other TAs.
-
-INFO 4120/6120: Ubiquitous Computing (Fall 2021)
-----------
-**Teaching Assistant at Cornell University, Instructor: Prof. Cheng Zhang**
-
-**Nominated for Outstanding Teaching Award**
-
-This course is for both undergraduate and graduate students at Cornell with different backgrounds. As the only TA, my responsibilities were to hold office hours and project meetings with students to help them address the problems they encountered during individual assignments and group projects. The problems were usually related to a wide range of topics in ubiquitous computing including 3D printing, microcontrollers, sensors, signal processing (Java) and machine learning. Besides, I also provided grades and feedback on the students’ assignments and project reports.
-
+2025: “‘I can’t see myself, even with my eyes closed, but I can see you’: Queer Listening and Fluid Aesthetics in <i>Blue Gate Crossing” Queer Studies in Media and Popular Culture</i>. under review.
