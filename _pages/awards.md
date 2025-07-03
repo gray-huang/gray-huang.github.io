@@ -8,23 +8,22 @@ redirect_from:
 ---
 
 {% include base_path %}
-INFO 2951: Introduction to Data Science with R (Spring 2025)
+SELECTED AWARDS, GRANTS, AND FELLOWSHIPS
 ----------
-**Teaching Assistant at Cornell University, Instructor: Prof. Benjamin Soltoff**
+2022-2026: Graduate Teaching Assistantship, Department of Comparative Literature, Binghamton University. (Full Scholarship and Tuition Waiver)
 
-This course is for undergraduate students at Cornell and focuses on using data to identify patterns, evaluate the strength and significance of relationships, and generate predictions using data. My responsibilities as a TA were to hold office hours and lead discussion sessions with students to help them address the problems they encountered during the class and assignments.
+Fall 2025: Dissertation Year Fellowship, Department of Comparative Literature, Binghamton University.
 
-INFO 4320/5321: Introduction to Rapid Prototyping and Physical Computing (Fall 2022, Spring 2023, Fall 2023)
-----------
-**Teaching Assistant at Cornell University, Instructor: Prof. Cheng Zhang**
+Summer 2025: Cornell School for Criticism and Theory (SCT) Fellowship, Cornell University.
 
-This course is for both undergraduate and graduate students at Cornell with different backgrounds. My responsibilities as a TA were to hold office hours and project meetings with students to help them address the problems they encountered during individual assignments and group projects. The problems were usually related to a wide range of topics in rapid prototyping and physical computing including 3D printing, laser cutting, microcontrollers, sensors, and motors. Besides, I also provided grades and feedback on the students’ assignments and project reports together with other TAs.
+Spring 2025: Doctoral Fellowship (Alternated), The Institute for Advanced Studies in the Humanities (IASH), Binghamton University.
 
-INFO 4120/6120: Ubiquitous Computing (Fall 2021)
-----------
-**Teaching Assistant at Cornell University, Instructor: Prof. Cheng Zhang**
+2023-2024: Graduate Student Organization Travel Grant, Binghamton University.
 
-**Nominated for Outstanding Teaching Award**
+Winter 2024: Modern Language Association (MLA) Graduate Student Travel Grant.
 
-This course is for both undergraduate and graduate students at Cornell with different backgrounds. As the only TA, my responsibilities were to hold office hours and project meetings with students to help them address the problems they encountered during individual assignments and group projects. The problems were usually related to a wide range of topics in ubiquitous computing including 3D printing, microcontrollers, sensors, signal processing (Java) and machine learning. Besides, I also provided grades and feedback on the students’ assignments and project reports.
+Fall 2023: Rocky Mountain Modern Language Association (RMMLA) Graduate Student Travel Grant.
+
+Fall 2022: Chancellor’s Graduate Student Award, Department of English (Media, Cinema, and Digital Studies), University of Wisconsin-Milwaukee. (Declined)
+
 
