@@ -5,6 +5,7 @@ author_profile: false
 redirect_from:
   - /about/
   - /about.html
+body_class: "home-page-yellow"
 ---
 
 <div class="bio-container">

@@ -16,7 +16,7 @@ layout: none
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <noscript><link rel="stylesheet" href="{{ '/assets/css/noscript.css' | relative_url }}"></noscript>
   </head>
-  <body>
+  <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
 
     {% include masthead.html %}
 
