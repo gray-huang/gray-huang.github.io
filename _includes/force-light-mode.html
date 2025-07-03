@@ -1,0 +1,30 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Get the <html> element
+      const htmlElement = document.documentElement;
+    
+      // Force remove the data-theme attribute
+      if (htmlElement.hasAttribute('data-theme')) {
+        htmlElement.removeAttribute('data-theme');
+      }
+    
+      // Ensure no specific theme is saved in local storage by the theme switcher script
+      localStorage.removeItem('theme');
+      localStorage.removeItem('darkmode'); // Also remove 'darkmode' if the theme uses it
+    
+      // Additionally, ensure the body background is explicitly set to your yellow
+      // This might be redundant if _base.scss is working, but acts as a fallback
+      // document.body.style.backgroundColor = '#FFEE59'; // Your yellow color
+      // document.body.style.color = '#000000'; // Your black text color
+    });
+    
+    // You might also need to run this on window load, as some scripts run later
+    window.addEventListener('load', function() {
+      const htmlElement = document.documentElement;
+      if (htmlElement.getAttribute('data-theme') === 'dark') {
+        htmlElement.removeAttribute('data-theme');
+      }
+      localStorage.removeItem('theme');
+      localStorage.removeItem('darkmode');
+    });
+    </script>
