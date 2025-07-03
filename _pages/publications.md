@@ -15,3 +15,5 @@ REFEREED PUBLICATIONS (PEER-REVIEWED)
 2025: “‘Ay, ay, ay, ay, ay cantaba’: Queer Undercurrents and Embodied Sound in Wong Kar-wai’s <i>Happy Together</i> and Barry Jenkins’s <i>Moonlight” The Music Novel as World Literature</i>. Eds. Barry Faulk and Chris Okonkwo. Bloomsbury Publishing. work-in-progress.
 
 2025: “‘I can’t see myself, even with my eyes closed, but I can see you’: Queer Listening and Fluid Aesthetics in <i>Blue Gate Crossing” Queer Studies in Media and Popular Culture</i>. under review.
+
+<img src="{{ 'https://gray-huang.github.io/images/pub.jpg' | relative_url }}" alt="Description of your publication image">
