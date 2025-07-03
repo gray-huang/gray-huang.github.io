@@ -67,15 +67,15 @@
 }
 
 body.home-page-yellow .masthead {
-  background-color: #FFEE59 !important; /* This sets the outer masthead background */
+  background: #FFEE59 !important; /* <--- CHANGE to 'background' and add !important */
 }
 
 /* Optional: If you want the bottom border of the header to also be yellow on the homepage */
 body.home-page-yellow .masthead::after {
-  background: #FFEE59 !important; /* Matching yellow for the border */
+  background: #FFEE59 !important; /* This is fine */
 }
 
-/* ADD THIS NEW RULE to make the inner wrapper yellow too */
+/* Update this rule: */
 body.home-page-yellow .masthead__inner-wrap {
-    background-color: #FFEE59 !important; /* Ensure the inner content area of the header is also yellow */
+  background: #FFEE59 !important; /* <--- CHANGE to 'background' and add !important */
 }
