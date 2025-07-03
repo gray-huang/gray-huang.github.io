@@ -16,4 +16,6 @@ REFEREED PUBLICATIONS (PEER-REVIEWED)
 
 2025: “‘I can’t see myself, even with my eyes closed, but I can see you’: Queer Listening and Fluid Aesthetics in <i>Blue Gate Crossing” Queer Studies in Media and Popular Culture</i>. under review.
 
-<img src="{{ 'https://gray-huang.github.io/images/pub.jpg' | relative_url }}" alt="Description of your publication image">
+<figure>
+    <center><img src="https://gray-huang.github.io/images/pub.jpg" alt="Trulli" style="width:100%" class="center"></center>
+</figure>
