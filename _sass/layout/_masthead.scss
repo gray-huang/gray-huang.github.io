@@ -67,15 +67,30 @@
 }
 
 body.home-page-yellow .masthead {
-  background: #FFEE59 !important; /* <--- CHANGE to 'background' and add !important */
+  background: #FFEE59 !important; /* Outer masthead */
 }
 
-/* Optional: If you want the bottom border of the header to also be yellow on the homepage */
 body.home-page-yellow .masthead::after {
-  background: #FFEE59 !important; /* This is fine */
+  background: #FFEE59 !important; /* Border */
 }
 
-/* Update this rule: */
 body.home-page-yellow .masthead__inner-wrap {
-  background: #FFEE59 !important; /* <--- CHANGE to 'background' and add !important */
+    background: #FFEE59 !important; /* Inner wrapper */
+}
+
+/* ADD THESE NEW RULES to target deeper elements that might have their own white background */
+
+// Target the navigation container itself
+body.home-page-yellow .masthead__menu nav#site-nav {
+    background: #FFEE59 !important;
+}
+
+// Target the list of visible links
+body.home-page-yellow .masthead__menu nav#site-nav ul.visible-links {
+    background: #FFEE59 !important;
+}
+
+// Target individual menu items (most likely culprit for the tab's background)
+body.home-page-yellow .masthead__menu-item {
+    background: #FFEE59 !important;
 }
