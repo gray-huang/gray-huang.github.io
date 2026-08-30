@@ -16,7 +16,9 @@ Digital Projects
     <img src="https://gray-huang.github.io/images/DH1.png" alt="Trulli" style="width:40%" class="centered-image">
 </figure>
 
-2026	[Love: Her/Them](https://editor.p5js.org/lhuang77/full/uq7lkks7i)
+<p style="text-align:center;">
+  2026: <a href="https://editor.p5js.org/lhuang77/full/uq7lkks7i">Love: Her/Them</a>
+</p>
 
 <figure>
     <img src="https://gray-huang.github.io/images/DH2.png" alt="Trulli" style="width:40%" class="centered-image">
