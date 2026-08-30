@@ -11,9 +11,9 @@ body_class: "home-page-yellow"
 <div class="bio-container">
     <div class="bio-text">
         <h1>GRAY HUANG</h1>
-        <p>Gray Lianghui Huang (Cantonese: Gray Wong Leung-fai) is a transdisciplinary artist-scholar and singer-songwriter based in upstate New York. He is currently a PhD candidate in Comparative Literature at SUNY Binghamton. His research explores media aesthetics, film phenomenology, queer sound and listening, as well as queer world cinema & TV.</p>
+        <p>Gray Lianghui Huang (Cantonese: Gray Wong Leung-fai) is a transdisciplinary artist-scholar and singer-songwriter based in upstate New York. He is currently a PhD candidate in Comparative Literature at Binghamton University, State University of New York (SUNY). His research explores queer cinema & TV, queer Asian literary & cultural studies, phenomenology and the senses, sound & voice studies, performance studies, as well as queer digital humanities. His scholarly work has appeared or is forthcoming in <em>Queer Studies in Media & Popular Culture<em> and the <em>Journal of Interdisciplinary Voice Studies<em>. </p>
 
-        <p>He is also a jazz vocalist and multilingual singer-songwriter (Cantonese, Mandarin, English, and French). As a reality TV talent show winner and finalist, he performed in top-tier Chinese TV singing shows <em>Come Sing With Me III</em> and <em>The Coming One II</em>. His performances span across New York, Hong Kong SAR, mainland China, and Vietnam.</p>
+        <p>He is also a jazz vocalist and multilingual singer-songwriter (Cantonese, Mandarin, English, and French). As a reality TV talent show winner and finalist, he has performed in major Chinese TV singing shows <em>Come Sing With Me III</em> and <em>The Coming One II</em>. His performances span across New York, Hong Kong SAR, mainland China, and Vietnam. </p>
 
         <h2>📺TV & MUSIC PERFORMANCE:</h2>
 
@@ -24,7 +24,7 @@ body_class: "home-page-yellow"
             <li><a href="https://www.youtube.com/watch?v=vCFSHu8U8LA" target="_blank">CLICK&gt; LOVE 愛 (COVER)</a></li>
         </ul>
 
-        <h3>🎤(CONTESTANT) He performed in front of top tiers artists Hua Chenyu, Wu Qing-feng, Li Yuchun, He Jiong, and Yang Mi in <em>The Coming One II</em>:</h3>
+        <h3>🎤(CONTESTANT) He performed in front of top tier artists Hua Chenyu, Wu Qing-feng, Li Yuchun, He Jiong, and Yang Mi in <em>The Coming One II</em>:</h3>
         <ul>
             <li><a href="https://www.youtube.com/watch?v=VYjimDEgzBw" target="_blank">CLICK&gt; FLY ME TO THE MOON (COVER)</a></li>
         </ul>

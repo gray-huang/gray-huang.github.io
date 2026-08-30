@@ -11,6 +11,11 @@ redirect_from:
 REFEREED CONFERENCE ACTIVITY
 ----------
 **Papers Presenter**
+Jan 2027	“Animating the Senses: Agentic AI, Digital Making, and Queer Sensory Humanities.” 2027 Modern Language Association (MLA) Annual Convention. Los Angeles, CA.
+
+May 2026	“Queer Listening and Acousmatic Margin in Satoshi Kon’s <i>Tokyo Godfathers<i>.” Music and the Moving Image Conference (MaMI). NYU, NY.
+
+March 2026	“‘I’m okay! I’m still alive!’: Queer Listening and Acousmatic Margin in Satoshi Kon’s <i>Tokyo Godfathers<i>.” Society for Cinema and Media Studies (SCMS) Annual Conference, Chicago, IL.
 
 November 2025: “Playing Queerly, Listening Differently: Queer Temporality, Affect, and Adaptation in <i>The Last of Us</i>.” The Center for Digital Narrative Workshop: Interdisciplinary Doctoral Research on Gender and Games, University of Bergen, Bergen, Norway.
 

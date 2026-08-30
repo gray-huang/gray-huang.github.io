@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 REFEREED PUBLICATIONS (PEER-REVIEWED)
 ----------
-2025: “Breath, Tremble, Touch: Queer Listening, Queer Vocals, and Queer Phenomenology” <i>Sensory Dramaturgy: Aesthetics for Nervous Systems</i>. Eds. Sean Metzger, Elizabeth McQueen, and Devon Baur. Bloomsbury Publishing. work-in-progress.
+Journal Articles
+2026:	“Hearing <i>Qieer</i> Voices: Androgynous Vocal Timbre, Sonic Resistance, and Queer Breath” Journal of Interdisciplinary Voice Studies. vol. 11, no. 2 (2026), (forthcoming).
 
-2025: “‘Ay, ay, ay, ay, ay cantaba’: Queer Undercurrents and Embodied Sound in Wong Kar-wai’s <i>Happy Together</i> and Barry Jenkins’s <i>Moonlight” The Music Novel as World Literature</i>. Eds. Barry Faulk and Chris Okonkwo. Bloomsbury Publishing. work-in-progress.
-
-2025: “‘I can’t see myself, even with my eyes closed, but I can see you’: Queer Listening and Fluid Aesthetics in <i>Blue Gate Crossing” Queer Studies in Media and Popular Culture</i>. under review.
+2026: “‘I can’t see myself, even with my eyes closed, but I can see you’: 
+Queer Listening and Fluid Aesthetics in <i>Blue Gate Crossing” Queer Studies in Media & Popular Culture</i>, vol. 10, no. 2&3 (2025): 153-166. https://doi.org/10.1386/qsmpc_00153_1
 
 <figure>
     <img src="https://gray-huang.github.io/images/pub.jpg" alt="Trulli" style="width:40%" class="centered-image">
