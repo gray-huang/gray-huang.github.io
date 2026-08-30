@@ -24,36 +24,46 @@ Digital Projects
     <img src="https://gray-huang.github.io/images/DH2.png" alt="Trulli" style="width:40%" class="centered-image">
 </figure>
 
-2026: [Smelling Class](https://editor.p5js.org/lhuang77/full/QkPulVfEd)
+<p style="text-align:center;">
+  2026: <a href="https://editor.p5js.org/lhuang77/full/QkPulVfEd">Smelling Class</a>
+</p>
 
 <figure>
     <img src="https://gray-huang.github.io/images/DH4.png" alt="Trulli" style="width:40%" class="centered-image">
 </figure>
 
-2026: [Inversions: Hearing Queer Diaspora](https://editor.p5js.org/lhuang77/full/FJRvXRfn1)
-
+<p style="text-align:center;">
+  2026: <a href="https://editor.p5js.org/lhuang77/full/FJRvXRfn1">Inversions: Hearing Queer Diaspora</a>
+</p>
 
 <figure>
     <img src="https://gray-huang.github.io/images/DH5.png" alt="Trulli" style="width:40%" class="centered-image">
 </figure>
 
-2026: [Planting Truth: Queering/Melting](https://editor.p5js.org/lhuang77/full/qufwXts2d)
-
+<p style="text-align:center;">
+  2026: <a href="https://editor.p5js.org/lhuang77/full/qufwXts2d">Planting Truth: Queering/Melting</a>
+</p>
 
 <figure>
     <img src="https://gray-huang.github.io/images/DH6.png" alt="Trulli" style="width:40%" class="centered-image">
 </figure>
 
-2026: [Nonbinary Spectrum: Queer Tao道](https://editor.p5js.org/lhuang77/full/Ozh4W-uvJ)
+<p style="text-align:center;">
+  2026: <a href="https://editor.p5js.org/lhuang77/full/Ozh4W-uvJ">Nonbinary Spectrum: Queer Tao道</a>
+</p>
 
 <figure>
     <img src="https://gray-huang.github.io/images/DH7.png" alt="Trulli" style="width:40%" class="centered-image">
 </figure>
 
-2026: [Queerness: Maternal Fluidity](https://editor.p5js.org/lhuang77/full/JWzZper9b)
+<p style="text-align:center;">
+  2026: <a href="https://editor.p5js.org/lhuang77/full/JWzZper9b">Queerness: Maternal Fluidity</a>
+</p>
 
 <figure>
     <img src="https://gray-huang.github.io/images/DH3.png" alt="Trulli" style="width:40%" class="centered-image">
 </figure>
 
-2026: [Life: Jazz Synesthesia](https://editor.p5js.org/lhuang77/full/AfrzIfS4T)
+<p style="text-align:center;">
+  2026: <a href="https://editor.p5js.org/lhuang77/full/AfrzIfS4T">Life: Jazz Synesthesia</a>
+</p>
