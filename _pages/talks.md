@@ -11,6 +11,7 @@ redirect_from:
 REFEREED CONFERENCE ACTIVITY
 ----------
 **Papers Presenter**
+
 Jan 2027	“Animating the Senses: Agentic AI, Digital Making, and Queer Sensory Humanities.” 2027 Modern Language Association (MLA) Annual Convention. Los Angeles, CA.
 
 May 2026	“Queer Listening and Acousmatic Margin in Satoshi Kon’s <i>Tokyo Godfathers<i>.” Music and the Moving Image Conference (MaMI). NYU, NY.

@@ -11,9 +11,9 @@ body_class: "home-page-yellow"
 <div class="bio-container">
     <div class="bio-text">
         <h1>GRAY HUANG</h1>
-        <p>Gray Lianghui Huang (Cantonese: Gray Wong Leung-fai) is a transdisciplinary artist-scholar and singer-songwriter based in upstate New York. He is currently a PhD candidate in Comparative Literature at Binghamton University, State University of New York (SUNY). His research explores queer cinema & TV, queer Asian literary & cultural studies, phenomenology and the senses, sound & voice studies, performance studies, as well as queer digital humanities. His scholarly work has appeared or is forthcoming in <em>Queer Studies in Media & Popular Culture<em> and the <em>Journal of Interdisciplinary Voice Studies<em>. </p>
+        <p>Gray Lianghui Huang (Cantonese: Gray Wong Leung-fai) is a transdisciplinary artist-scholar and singer-songwriter based in upstate New York. He is currently a PhD candidate in Comparative Literature at Binghamton University, State University of New York (SUNY). His research explores queer cinema & TV, queer Asian literary & cultural studies, phenomenology and the senses, sound & voice studies, performance studies, as well as queer digital humanities. His scholarly work has appeared or is forthcoming in <i>Queer Studies in Media & Popular Culture</i> and the <i>Journal of Interdisciplinary Voice Studies</i>. </p>
 
-        <p>He is also a jazz vocalist and multilingual singer-songwriter (Cantonese, Mandarin, English, and French). As a reality TV talent show winner and finalist, he has performed in major Chinese TV singing shows <em>Come Sing With Me III</em> and <em>The Coming One II</em>. His performances span across New York, Hong Kong SAR, mainland China, and Vietnam. </p>
+        <p>He is also a jazz vocalist and multilingual singer-songwriter (Cantonese, Mandarin, English, and French). As a reality TV talent show winner and finalist, he has performed in major Chinese TV singing shows <i>Come Sing With Me III</i> and <i>The Coming One II</i>. His performances span across New York, Hong Kong SAR, mainland China, and Vietnam. </p>
 
         <h2>📺TV & MUSIC PERFORMANCE:</h2>
 
