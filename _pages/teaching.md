@@ -14,9 +14,9 @@ TEACHING EXPERIENCE
 
 **<i>(Design and teach, as instructor of record, an intermediate-level course of max. 25 students that fulfills the Humanities and Composition university general education requirements.)</i>**
 
-Summer 2026	COLI 330 “TV and Gender” (online asynchronous)
+Summer 2026:	COLI 330 “TV and Gender” (online asynchronous)
 
-Spring 2026		COLI 212 “Queer Cinema and the Senses: Perception, Power, and the 
+Spring 2026:	COLI 212 “Queer Cinema and the Senses: Perception, Power, and the 
 Politics of Feeling”
 
 Summer 2025: COLI 330 “TV Series” (online asynchronous)
