@@ -36,7 +36,7 @@ body_class: "home-page-yellow"
 
         <h3>🎤(GUEST PERFORMER) He was invited by CSSA to perform at Cornell University:</h3>
         <ul>
-            <li><a href="https://www.instagram.com/p/DFoslHxsox5" target="_blank">CLICK&gt; YEARN FOR LOVE 對愛渴望 (COVER)</a></li>
+            <li><a href="https://www.youtube.com/watch?v=HqFrsIl6IJo" target="_blank">CLICK&gt; YEARN FOR LOVE 對愛渴望 (COVER)</a></li>
         </ul>
     </div>
 
