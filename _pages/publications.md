@@ -12,6 +12,8 @@ REFEREED PUBLICATIONS
 ----------
 **Peer-Reviewed Journal Articles**
 
+2027:	“‘I’m okay! I’m still alive!’: Acousmatic Margin and Trans Breathing in Satoshi Kon's <i>Tokyo Godfathers</i>” <i>Music, Sound, and the Moving Image</i>. (forthcoming)
+
 2026:	“Hearing <i>Qieer</i> Voices: Androgynous Vocal Timbre, Sonic Resistance, and Queer Breath” <i>Journal of Interdisciplinary Voice Studies</i>. vol. 11, no. 2 (2026). (forthcoming)
 
 2025: “‘I can’t see myself, even with my eyes closed, but I can see you’: 
